@@ -12,8 +12,10 @@ public class javabasics{
     boolean var = true; // boolean data type
     System.out.println(var);
 
+    int number = 35; // integer
+    System.out.println(number);
 
-
+    
   }
 }
 

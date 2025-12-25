@@ -9,10 +9,10 @@
 - byte = stores only 256 numbers
 - short
 - char = only single character are stored
-- boolean = true or false will be stored
+- boolean = true or false will be stored for check conditions
 - int
 - long
-- float
+- float = only decimal numbers stored
 - double
 
 2. Non-primitve data type
@@ -27,3 +27,5 @@
 
 * Java is a typed lang means variable bnane se phle usse btana pdega ki var ka type kya h
 
+- long data type = used for store very long number's
+- double data type = used for store double decimal values
