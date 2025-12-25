@@ -6,10 +6,10 @@
 
 - Primitive means those data types which already exists in java for examples :- 
 
-- byte
+- byte = stores only 256 numbers
 - short
-- char
-- boolean
+- char = only single character are stored
+- boolean = true or false will be stored
 - int
 - long
 - float

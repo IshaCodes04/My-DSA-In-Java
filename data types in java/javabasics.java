@@ -9,7 +9,10 @@ public class javabasics{
     char ch = 'a'; // char data type
     System.out.println(ch);
 
-    
+    boolean var = true; // boolean data type
+    System.out.println(var);
+
+
 
   }
 }
