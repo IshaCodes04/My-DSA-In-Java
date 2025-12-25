@@ -19,6 +19,10 @@
 
 - Non-primtive means thoda data types which created by themselves for use for example :-
 
-
+- String
+- Array
+- Class
+- Object 
+- Interface 
 
 
