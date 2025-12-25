@@ -6,11 +6,11 @@
 
 - Primitive means those data types which already exists in java for examples :- 
 
-byte
-short
-char
-boolean
-int
-long
-float
-double
+- byte
+- short
+- char
+- boolean
+- int
+- long
+- float
+- double
