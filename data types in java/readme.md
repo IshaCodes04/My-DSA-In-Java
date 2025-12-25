@@ -14,3 +14,11 @@
 - long
 - float
 - double
+
+2. Non-primitve data type
+
+- Non-primtive means thoda data types which created by themselves for use for example :-
+
+
+
+
