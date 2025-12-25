@@ -16,4 +16,10 @@ int b = 5;
 
 - Here a , b , print , main , println , javabasics are those called identifiers.
 
+*How variables stored in memory of java*
 
+- In java all information ir any variables and there values all are stores in a memory
+
+- we visualize memory like we have a memory and ther are many small small block when we assign a value in a variable like a = 10 then , one of block name will be a and there value is 10.
+
+- All blocks have there different adress and different sizes
