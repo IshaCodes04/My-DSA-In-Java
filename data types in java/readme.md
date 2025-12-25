@@ -25,4 +25,5 @@
 - Object 
 - Interface 
 
+* Java is a typed lang means variable bnane se phle usse btana pdega ki var ka type kya h
 
