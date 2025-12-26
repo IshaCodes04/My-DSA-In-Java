@@ -7,13 +7,16 @@ public class javabasics {
 
      Scanner sc  = new Scanner(System.in);
 
-    // String input = sc.next(); // sc.next for take input and store it in String name input
-     //System.out.println(input);
+     String input = sc.next(); // sc.next for take input and store it in String name input
+     System.out.println(input);
 
-     //String name = sc.nextLine(); // nextLine used for count spaces like isha singh full name ayega ab input m with space as well as a sentence or paragraphs
-     //System.out.println(name);
+     String name = sc.nextLine(); // nextLine used for count spaces like isha singh full name ayega ab input m with space as well as a sentence or paragraphs
+     System.out.println(name);
 
-     int number = sc.nextInt(); // used for take integer inputs
+     int number = sc.nextInt(); // used for take integer value in inputs
      System.out.println(number);
+
+     float price = sc.nextFloat(); // used for take float value in inputs
+     System.out.println(price);
    }
 }
