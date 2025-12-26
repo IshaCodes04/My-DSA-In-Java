@@ -18,5 +18,10 @@ public class javabasics {
 
      float price = sc.nextFloat(); // used for take float value in inputs
      System.out.println(price);
+
+     boolean statement = sc.nextBoolean(); // used for true or false boolean inputs
+     System.out.println(statement);
+
+     
    }
 }
