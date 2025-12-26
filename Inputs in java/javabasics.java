@@ -8,8 +8,9 @@ public class javabasics {
      String input = sc.next(); // sc.next for take input and store it in String name input
      System.out.println(input);
 
-     sc.nextLine(); // nextLine used for count spaces like isha singh full name ayega ab input m with space
-     
+     String name = sc.nextLine(); // nextLine used for count spaces like isha singh full name ayega ab input m with space
+     System.out.println(name);
+
 
    }
 }
