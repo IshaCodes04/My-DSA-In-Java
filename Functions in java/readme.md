@@ -12,4 +12,4 @@ returnType name () {
 - returnType - ki yh fnc koi value return kr rha h kya? (mean hmare output ka kya type hoga)
 - fnc kch input leta h or output deta h
 - name => function ka naam
-
+- 
