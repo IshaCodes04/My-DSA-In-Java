@@ -2,3 +2,8 @@
 
 *Arrays in java*
 
+- Through arrays we can create - stack , ques , Deque ,
+
+*LinkedList in java*
+
+- Through linkedlist we can create - hashmaps , sets , trees , graphs
