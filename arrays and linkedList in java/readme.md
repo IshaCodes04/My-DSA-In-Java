@@ -14,6 +14,8 @@
 
 - We can't delete or insert on random place in an array.
 
+* But random access is possible in an array by index for ex - a[3], here 3 represent index of box.
+
 *LinkedList in java*
 
 - Through linkedlist we can create - hashmaps , sets , trees , graphs
