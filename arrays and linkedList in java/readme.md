@@ -3,8 +3,12 @@
 *Arrays in java*
 
 - Through arrays we can create - stack , ques , Deque ,
+
 - index starts from 0 in array
+
 - if one array is for int then int number's will be stores not any other this was applicable for all other things like audio , float.
+
+- 2- Dimensional array is present by matrix
 
 *Limitations of array*
 
@@ -22,7 +26,7 @@
 
 - Linkedlist m data is not inclined means ek line m data nhi rehta uski postions alg alg hoti h 
 
-- mean ek ldka 1 pr h ek 20 , ek , 30 or ek 50 pr diff positions pr h sb ab kya krenge 1 bale ko bta denge ki second wala kaha h (20) , second wale ko bta denge 3 wala kaha h (30) or last wale m null kr denge kyuki next koi h he nhi. So aise krke hum jump krte rhte h.
+- mean ek ldka 1 postion pr h ek 20 position , ek , 30 position or ek 50 position diff positions pr h sb ab kya krenge 1 bale ko bta denge ki second wala kaha h (20) , second wale ko bta denge 3 wala kaha h (30) or last wale m null kr denge kyuki next koi h he nhi. So aise krke hum jump krte rhte h.
 
 - Ab idr ldka or 20 dono ko hum nodes kehte h jisme ldka data h or uske sath dusri position ka link h jo another ldke se connect krega.
 
@@ -32,3 +36,7 @@
 
 - The first node is called the head node and we can traverse the whole list using this head and next links.
 
+*Limitation of linkedlist*
+
+- Random acess like an array isn't possible in linkedlist .
+- But here insertion or deletion in between random places is totally available.
