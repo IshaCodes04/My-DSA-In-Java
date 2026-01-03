@@ -1,0 +1,27 @@
+// take inputs in java
+
+import java.util.*; // util is a java package
+
+public class javabasics {
+   public static void main(String args[]){
+
+     Scanner sc  = new Scanner(System.in);
+
+     String input = sc.next(); // sc.next for take input and store it in String name input
+     System.out.println(input);
+
+     String name = sc.nextLine(); // nextLine used for count spaces like isha singh full name ayega ab input m with space as well as a sentence or paragraphs
+     System.out.println(name);
+
+     int number = sc.nextInt(); // used for take integer value in inputs
+     System.out.println(number);
+
+     float price = sc.nextFloat(); // used for take float value in inputs
+     System.out.println(price);
+
+     boolean statement = sc.nextBoolean(); // used for true or false boolean inputs
+     System.out.println(statement);
+
+     
+   }
+}
