@@ -39,5 +39,10 @@ array = [2,7,11,15] , target value = 9
 - so for find two pointer Condition is this ki array ka ques h but not sorted , what if we sorting the array then check it is useful or not?
 
 * Ques mein pair given krna h so one click is this ki ques 2 pointer ka ho skta h 
-* If ques mein number or index return krna h
+* If ques mein number or index return krna h (2,7) or (0,1)
+
+- Ab yha ek m 2 pointer lg skta h or ek m nhi why? let's see :-
+
+
+
 
