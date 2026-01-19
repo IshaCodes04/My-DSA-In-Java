@@ -34,14 +34,22 @@
 array = [2,7,11,15] , target value = 9
 (2+7) = 9
 
-* Now we find is this two sum ques is eligible for 2 pointer or not?
+*Now we find is this two sum ques is eligible for 2 pointer or not?*
 
-- so for find two pointer Condition is this ki array ka ques h but not sorted , what if we sorting the array then check it is useful or not?
+- Read ques carefully :- 
 
 * Ques mein pair given krna h so one click is this ki ques 2 pointer ka ho skta h 
 * If ques mein number or index return krna h (2,7) or (0,1)
 
-- Ab yha ek m 2 pointer lg skta h or ek m nhi why? let's see :-
+- So for find two pointer Condition for two sum ques is ki array ka ques h but not sorted , what if we sorting the array then check it is useful or not?
+
+- So agr ques is demanded for simple number then array ko sort kr skte h because after sorting an array number doesn't changed 
+
+- But agr ques is demaned for indexes then array ko sort nhi krenge becos after sorting indexes are changed 
+
+* In that type of cases if ques demand for simple number then array sort krna h if it demands for index then check if array is already sorted or not , if its sorted then 2 pointer technique lgegi , if not sorted then nhi krna h result glt ayega becos of changes in indexes 
+
+
 
 
 
