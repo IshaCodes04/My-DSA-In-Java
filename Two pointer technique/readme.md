@@ -34,37 +34,6 @@
 array = [2,7,11,15] , target value = 9
 (2+7) = 9
 
-*Now we find is this two sum ques is eligible for 2 pointer or not?*
+* Now we find is this two sum ques is eligible for 2 pointer or not?
 
-- Read ques carefully :- 
-
-* Ques mein pair given krna h so one click is this ki ques 2 pointer ka ho skta h 
-* If ques mein number or index return krna h (2,7) or (0,1)
-
-- So for find two pointer Condition for two sum ques is ki array ka ques h but not sorted , what if we sorting the array then check it is useful or not?
-
-- So agr ques is demanded for simple number then array ko sort kr skte h because after sorting an array number doesn't changed 
-
-- But agr ques is demaned for indexes then array ko sort nhi krenge becos after sorting indexes are changed 
-
-* In that type of cases if ques demand for simple number then array sort krna h if it demands for index then check if array is already sorted or not , if its sorted then 2 pointer technique lgegi , if not sorted then nhi krna h result glt ayega becos of changes in indexes 
-
-*Now check ques by brutforce approach*
-
- [7,2,11,15] array h index is 0,1,2,3 targer = 9 , i or j ko chlayenge dono ko 0 se n number tk pure m run kr krke check krenge target sum 
-
-- Here time complexity is 0(n2) h becos i or j dono check kr rhe h 
-
-*Now check ques by better approach*
-
-- Here we use hashmap = due to hashmap sare elements or unke index likh lenge 
-
-7 = 0 , 2 = 1 , 11 = 2 , 15 = 3 
-
-- Ab i = 7 humhe find krna h 2 condition 9-7 = 2 , hashmap ko run krke usse puchenge kya tumare pass 2 h woh bolega yes yes then uske acc jo ques m demand h woh return kr denge index ya fr number.
-
-- Here time complexity = 0(n) becos i -> 0 -> n tk or ek br m he kam ho rha h
-
-
-
-
+- 
