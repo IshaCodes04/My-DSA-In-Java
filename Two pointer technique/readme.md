@@ -13,13 +13,14 @@
 
 * then read the ques carefully find some imp points for thinks to apply 2 pointer technique ->
 
-- Is data is sorted
-- If data is sorted then its will be easy 
-- If needed to Merge data 
+- Is data is sorted?
+- If data is sorted then it will be advantagable or not? 
+- If needed to Merge data?
 - Remove duplicate / Rearranged For ex - Merge 2 array, Remove duplicate from the array  
 - Remove duplicate in linkedlist , Rearranged the array ( in values)
 - Detect cylce in linkedlist or if cycle is possible in ques 
 - Find pairs , triplets , Quadruples
+- Do not use extra space.
 
 *What is 2 pointer*
 
