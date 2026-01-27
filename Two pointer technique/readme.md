@@ -36,4 +36,11 @@ array = [2,7,11,15] , target value = 9
 
 * Now we find is this two sum ques is eligible for 2 pointer or not?
 
-- 
+- Agr number return krna h toh array ko sort kr skte h :- 
+
+* Becos after sorting numbers are same but indexes were changed 
+
+* So the thing is that if ques return index & we sorted the array then index was changes , but if ques is asked for return number then sorting is good but if in case of indexe the sorting is not prefer (Array sort diya hoga tb already toh sort nhi krenge in case of return index).
+
+* In that type of cases ques demands for only number then array sort kr skte h otherwise , index demanded h toh check krenge ques is  sorted or not if sorted then 2 pointer use hoga.
+
