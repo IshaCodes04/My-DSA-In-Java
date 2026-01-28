@@ -7,25 +7,25 @@ public class TwoSumII {
 
     public static int[] twoSum(int[] numbers, int target) {
 
-        int i = 0;
-        int j = numbers.length - 1;
+        int i = 0; // i = 0 th index pe h left pointer
+        int j = numbers.length - 1; // j = n-1 end pointer pe h right side
 
-        while (i < j) {
+        while (i < j) { // jb tk pointers cross na ho jaye tb tk chlega
 
-            int sum = numbers[i] + numbers[j];
+            int sum = numbers[i] + numbers[j]; // current pair sum , 9 = 2+7 
 
-            if (sum == target) {
-                return new int[]{ i + 1, j + 1 };
+            if (sum == target) { // if targer is equal to sum 
+                return new int[]{ i + 1, j + 1 }; // then 1-based indexing return kr denge
             }
             else if (sum < target) {
-                i++;   // sum chhota hai → bada karo
+                i++;   // sum chhota hai → i bada karo
             }
             else {
-                j--;   // sum bada hai → chhota karo
+                j--;   // sum bada hai → j chhota karo
             }
         }
 
-        return new int[]{};
+        return new int[]{}; // return krdo int ko
     }
 
     public static void main(String[] args) {
