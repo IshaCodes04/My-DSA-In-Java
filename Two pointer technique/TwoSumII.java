@@ -30,8 +30,8 @@ public class TwoSumII {
 
     public static void main(String[] args) {
 
-        int[] numbers = {2, 3, 4};
-        int target = 6;
+        int[] numbers = {4, 3, 2 ,6};
+        int target = 10;
 
         int[] ans = twoSum(numbers, target);
         System.out.println(ans[0] + " " + ans[1]);
