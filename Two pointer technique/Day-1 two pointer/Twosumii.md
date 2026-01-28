@@ -1,4 +1,4 @@
-*Two sum ques* 
+Ques.167 :- *Two sum ques* 
 
 - So the ques of two sum here is an array is given or target sum diya huya h now we need to find 2 number / indexes jiska sum target value ke equal ho? 
 
