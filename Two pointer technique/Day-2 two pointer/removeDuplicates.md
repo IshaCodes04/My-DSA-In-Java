@@ -12,8 +12,8 @@ Ques.26 :- *Remove duplicates from sorted array*
 
 - [1] jo first element h woh already unique number h.
 
-- Ab array sorted h so sare elements ek jaise dikhenge, duplicate kaise find krenge? if any element is same from their adjacent element then it was duplicated , if adjacent element was not same then its unique number.
+- Ab array sorted h so sare elements ek jaise dikhenge, duplicate kaise find krenge? if any element is same from their adjacent/left element then it was duplicated , if adjacent element was not same then its unique number.
 
-
+- no. of unique numbers = first 1 is already unique , when we find another unique number then ++ kr denge fr return.
  
 
