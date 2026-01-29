@@ -14,6 +14,8 @@ Ques.26 :- *Remove duplicates from sorted array*
 
 - Ab array sorted h so sare elements ek jaise dikhenge, duplicate kaise find krenge? if any element is same from their adjacent/left element then it was duplicated , if adjacent element was not same then its unique number.
 
-- no. of unique numbers = first 1 is already unique , when we find another unique number then ++ kr denge fr return.
+- no. of unique numbers = first 1 is already unique , when we find another unique number then ++ kr denge 
+
+- [1,1,1,2,2,3,3] so ab kya krna h 1 pe pointer h already jo 0th index h if adjacent element same h jo ++ pointer pass on kr denge next element pe , but if adjacent element diff hoga then 0 + 1 kr denge next index pe pointer add kr denge 1th pe , or unique number mein ++ kr denge 1 + 1 = 2 or 2 new unique number aa jyega. [1,2,1,2,2,3,3] , or (n-1) ke liye ek pointer every step pe pass on hota rhega for check adjacent elements
  
 
