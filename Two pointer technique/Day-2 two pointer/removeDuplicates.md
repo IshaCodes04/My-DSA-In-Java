@@ -16,6 +16,6 @@ Ques.26 :- *Remove duplicates from sorted array*
 
 - no. of unique numbers = first 1 is already unique , when we find another unique number then ++ kr denge 
 
-- [1,1,1,2,2,3,3] so ab kya krna h 1 pe i pointer h already jo 0th index h if adjacent element same h toh j++ pointer pass on kr denge next element pe , but if adjacent element diff hoga then (0 + 1)kr denge means next index pe pointer i++ kr denge ab i pointer 1th index pe h , or unique number mein ++ kr denge 1 + 1 = 2 or 2 new unique number aa jyega. [1,2,1,2,2,3,3] , or (n-1) tk j++ pointer every step pe pass on hota rhega for check adjacent elements and at the end return kr denge unique numbers.
+* [1,1,1,2,2,3,3] so ab kya krna h 1 pe i pointer h already jo 0th index h if adjacent element same h toh j++ pointer pass on kr denge next element pe , but if adjacent element diff hoga then (0 + 1)kr denge means next index pe pointer i++ kr denge ab i pointer 1th index pe h , or unique number mein ++ kr denge 1 + 1 = 2 or 2 new unique number aa jyega. [1,2,1,2,2,3,3] , or (n-1) tk j++ pointer every step pe pass on hota rhega for check adjacent elements and at the end return kr denge unique numbers.
  
 
