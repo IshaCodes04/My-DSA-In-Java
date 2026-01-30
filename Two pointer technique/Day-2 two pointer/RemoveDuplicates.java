@@ -8,6 +8,10 @@
 
 // Relative order same rhega - mean jo order pehle tha whi rhega
 
+// Return :- K = How many unique elements we have 
+
+// Phele k element mein unique numbers sorted order mein hone chahiye. 
+
 public class RemoveDuplicates {
   
 }
