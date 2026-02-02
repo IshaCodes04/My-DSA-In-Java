@@ -37,5 +37,3 @@ public class TwoSumII {
         System.out.println(ans[0] + " " + ans[1]);
     }
 }
-
-
