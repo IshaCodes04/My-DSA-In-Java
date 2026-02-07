@@ -10,11 +10,7 @@
 
 // Return :- K = How many unique elements we have 
 
-// Phele k element mein unique numbers sorted order mein hone chahiye. 
-
-
-
-
+// Phele k element mein unique numbers sorted order mein hone chahiy
 
 public class RemoveDuplicates {
   
