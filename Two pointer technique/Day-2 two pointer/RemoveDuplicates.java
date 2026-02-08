@@ -10,7 +10,13 @@
 
 // Return :- K = How many unique elements we have 
 
-// Phele k element mein unique numbers sorted order mein hone chahiy
+// Phele k element mein unique numbers sorted order mein hone chahiye
+
+// Important points :-
+
+// First k elements contain unique numbers - yahi important hai
+// Baaki elements (k ke baad) ko ignore kar sakte ho - unhe kuch bhi chhod sakte ho
+
 
 public class RemoveDuplicates {
   
