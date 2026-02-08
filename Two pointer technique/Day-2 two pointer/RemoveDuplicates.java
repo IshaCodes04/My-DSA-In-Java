@@ -17,6 +17,17 @@
 // First k elements contain unique numbers - yahi important hai
 // Baaki elements (k ke baad) ko ignore kar sakte ho - unhe kuch bhi chhod sakte ho
 
+// Example :- 
+
+// Input: nums = [1,1,2]
+
+// Output: k = 2, nums = [1,2,_]
+
+// Explanation:
+// - Unique elements = 1 and 2 (2 elements)
+// - Return k = 2
+// - First 2 positions mein [1,2] hona chahiye
+// - 3rd position pe kuch bhi ho sakta hai (_ means don't care)
 
 public class RemoveDuplicates {
   
